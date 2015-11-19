@@ -1,14 +1,14 @@
 [azukiapp/internal-services](http://images.azk.io/#/internal-services)
 ==================
 
-Docker image for run base [azk][azk] internals services, with DNS service ([dnsmasq]([dnsmasq]) and redirect load balancing service (via [socat][socat]).
+Docker image for run base [azk][azk] internals services, with DNS service ([dnsmasq][dnsmasq]) and redirect load balancing service (via [socat][socat]).
 
 More information [here][azk_agent_doc]
 
 ###### Versions:
 
 <versions>
-- [`latest`, `0.1.0`](https://github.com/azukiapp/internal-services/blob/master/Dockerfile)
+- [`latest`, `0.1.0`](https://github.com/azukiapp/docker-internal-services/blob/master/Dockerfile)
 </versions>
 
 ### Usage with `azk`
