@@ -11,6 +11,15 @@ RUN packages=' \
   && apk --update add $packages \
   && rm -rf /var/cache/apk/*
 
+# Define mountable directories.
+VOLUME ["/data"]
+
+# Define working directory.
+WORKDIR /data
+
+# Define default command.
+CMD ["/bin/bash"]
+
 # Expose ports.
 EXPOSE 53/udp
 EXPOSE 80
