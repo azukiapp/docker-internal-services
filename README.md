@@ -57,6 +57,6 @@ Example of using this image with [azk][azk]:
 
 [azk]: https://github.com/azukiapp/azk
 [azk_agent_doc]: http://docs.azk.io/en/agent/
-[bach]: https://www.gnu.org/software/bash/
+[bash]: https://www.gnu.org/software/bash/
 [dnsmasq]: http://www.thekelleys.org.uk/dnsmasq/doc.html
 [socat]: http://www.dest-unreach.org/socat/
