@@ -10,3 +10,7 @@ RUN packages=' \
   set -x \
   && apk --update add $packages \
   && rm -rf /var/cache/apk/* \
+
+# Expose ports.
+EXPOSE 53/udp
+EXPOSE 80
