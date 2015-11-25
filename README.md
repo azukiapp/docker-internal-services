@@ -8,7 +8,7 @@ More information [here][azk_agent_doc]
 ###### Versions:
 
 <versions>
-- [`latest`, `0.1.0`](https://github.com/azukiapp/docker-internal-services/blob/master/Dockerfile)
+- [`latest`, `0.4.0`](https://github.com/azukiapp/docker-internal-services/blob/master/Dockerfile)
 </versions>
 
 ### Usage with `azk`
